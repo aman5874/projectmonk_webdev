@@ -95,15 +95,15 @@ git push -u origin <your_branch_name>
  
 <table>
 <tr>
-<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Ayush Parikh</h4>
-<a href="https://www.linkedin.com/in/ayush-parikh332/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
+<td align="center"><a href="https://github.com/Ayushparikh-code"><img src="https://avatars.githubusercontent.com/u/60268067?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Aman Pandit</h4>
+<a href="https://www.linkedin.com/in/aman045"><img src="https://media.licdn.com/dms/image/v2/D5603AQHic-kfa2ICGA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708170530776?e=1730937600&v=beta&t=IYKpINTCDskJlpexNd649Xr3NTyx2o5RzT1eoJP8WPg" width="32px" height="32px"></a></td>
 
-<td align="center" ><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">Shloka Gupta</h4>
+<!-- <td align="center" ><a href="https://github.com/chicken-biryani"><img src="https://avatars.githubusercontent.com/u/41121520?v=4" width=150px height=150px /></a></br> <h4 style="color:red;"></h4>
 <a href="https://www.linkedin.com/in/shloka-gupta-45b974157"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
 
-<td align="center"><a href="https://github.com/harshita2216"><img src="https://avatars.githubusercontent.com/u/65803563?v=4" width=150px height=150px /></a></br> <h4 style="color:red;">S Harshita</h4>
+<td align="center"><a href="https://github.com/harshita2216"><img src="https://avatars.githubusercontent.com/u/65803563?v=4" width=150px height=150px /></a></br> <h4 style="color:red;"></h4>
 <a href="https://www.linkedin.com/in/s-harshita/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a></td>
-</tr>
+</tr> -->
 </table>
 <br>
 
