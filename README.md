@@ -1,6 +1,6 @@
 # Web-dev-mini-projects
 The repository contains the list of awesome✨ &amp; cool web development beginner-friendly✌️ projects!
-<h1 align="center">Web-dev-mini-projects</h1> 
+<h1 align="center">Project Monk</h1> 
 
 <div align="center">
 <a href="https://github.com/topics/html"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?&style=for-the-badge"/></a>
@@ -76,14 +76,14 @@ git push -u origin <your_branch_name>
 
 **8.** Create a Pull Request!
 
-**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/Ayushparikh-code/Web-dev-mini-projects) project
+**Congratulations!** Sit and relax till we review your PR, you've made your contribution to (https://github.com/aman5874/projectmonk_webdev) project
 
 <br>
 
  ## Our valuable Contributors👩‍💻👨‍💻 :
 
-<a href="https://github.com/Ayushparikh-code/Web-dev-mini-projects/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Ayushparikh-code/Web-dev-mini-projects" />
+<a href="https://github.com/aman5874/projectmonk_webdev/graphs/contributors">
+  <img src="" />
 </a>
 
 
